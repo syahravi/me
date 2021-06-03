@@ -17,5 +17,5 @@
 - 1/12/2020-4/12/2020 in Bandung;> - Get paid 10M IDR
 - 10/09/2020 Undergraduate student, Bogor
 - 01/06/2021 Syahravi's personal page exist on [syahravi.github.io](https://syahravi.github.io)
-- 01/06/2021-01/06/2026 5 (five) years rent [Syahravi.my.i](https://www.syahravi.my.id)
+- 01/06/2021-01/06/2026 5 (five) years rent [Syahravi.my.id](https://www.syahravi.my.id)
 - 03/06/2021 syahravi.github.io/Life is exist
