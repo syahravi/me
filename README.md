@@ -1,11 +1,9 @@
 Life
 ====
 
-It's a **timeline of important events** check it out fork
+It's a **timeline of important events**
 
 So, this is it. Have a look at [syahravi.github.io/Life](https://syahravi.github.io/Life).
-
-Forked from [Cheeaun](https://github.com/cheeaun/life)
 
 Features
 --------
@@ -26,7 +24,6 @@ How to setup your own *Life*
 5. Commit and push your project Life.
 6. Update the website link in your GitHub repo description.
 7. Tell the world about your Life.
-8. Add your Life to the [Lives](https://github.com/cheeaun/life/wiki/Lives) page.
 
 How to configure your *Life*
 ----------------------------
@@ -46,8 +43,3 @@ Datetime "syntax"
 - `2001-2005`, `10/2001-02/03/2005` - event that happen within the two dates
 - `~2005` - event that happen around the time in that year
 - `2005-~` - event that happen from that year and beyond (now).
-
-Other people's Lives
---------------------
-
-Here's [a compilation of Lives from the people who have forked Life](https://github.com/cheeaun/life/wiki/Lives).
