@@ -19,4 +19,4 @@
 - 01/06/2021 Syahravi's personal page exist on [syahravi.github.io](https://syahravi.github.io)
 - 01/06/2021-01/06/2026 5 (five) years rent [Syahravi.my.id](https://www.syahravi.my.id)
 - 03/06/2021 syahravi.github.io/Life is exist
-- 09/06/2021 Hello world by Openbox - WM for Laptop
+- 09/06/2021 Hello world! - Openbox (Laptop Setup)
