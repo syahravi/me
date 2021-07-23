@@ -1,4 +1,4 @@
-@Syahravi's life
+@syahravi's life
 ===============
 
 - 02/2001 Syahravi is exist EXACTLY in Jepara, Indonesian
@@ -20,3 +20,4 @@
 - 01/06/2021-01/06/2026 5 (five) years rent [Syahravi.my.id](https://www.syahravi.my.id)
 - 03/06/2021 syahravi.github.io/Life is exist
 - 09/06/2021 Hello world! - Openbox (Laptop Setup)
+- 23/07/2021 Reinstall Operation System - Lepi
