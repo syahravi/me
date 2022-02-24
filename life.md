@@ -25,3 +25,4 @@
 - 22/10/2021 HSN;uhuk
 - 15/11/2021 Re-install Operation System
 - 11/02/2022 Have fun by means of naruto
+- 24/02/2022 syahravi.github.io is closed
