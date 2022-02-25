@@ -1,6 +1,6 @@
 @Syahravi's life
 ===============
 
-- 2001 Born
-- 2001-2010 Recall
-- 2010-2019 Broken
+- 2000 aw for you 
+- 2001 aw of you
+- 2010 aw not you
