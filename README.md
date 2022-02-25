@@ -3,7 +3,7 @@ Life
 
 It's a **timeline of important events**
 
-So, this is it. Have a look at [tl.syahravi.my.id](https://tl.syahravi.my.id).
+So, this is it. Have a look at [tl.syahravi.my.id](https://syahravi.my.id/timeline).
 
 Features
 --------
