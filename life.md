@@ -26,3 +26,4 @@
 - 15/11/2021 Re-install Operation System
 - 11/02/2022 Have fun by means of naruto
 - 24/02/2022 syahravi.github.io is closed
+- 25/02/2022 decision.
