@@ -28,4 +28,5 @@
 - 24/02/2022 Closed `syahravi.github.io`
 - 25/02/2022 Decision
 - 16/01/2023 ABhome
+- 14/08/2023-31/12/2023 Bangkit Academy 2023 By Google, GoTo, Traveloka - Cloud Computing Learning Path
 - 26/03/2024 Service
