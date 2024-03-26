@@ -3,7 +3,7 @@ Life
 
 It's a **timeline of important events**
 
-So, this is it. Have a look at [syahravi.my.id/timeline](https://tl.syahravi.my.id).
+So, this is it. Have a look at [syahravi.my.id/timeline](https://me.syahravi.my.id).
 
 Forked from [Cheeaun](https://github.com/cheeaun/life)
 
