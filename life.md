@@ -18,7 +18,7 @@
 - 1/12/2020-4/12/2020 in Bandung - Get paid [...] IDR
 - 01/06/2021 Syahravi's personal page exist on [syahravi.github.io](https://syahravi.github.io)
 - 01/06/2021-01/06/2026 5 (five) years rent [Syahravi.my.id](https://syahravi.my.id)
-- 03/06/2021 [tl.syahravi.my.id](/) is exist
+- 03/06/2021 [me.syahravi.my.id](/) is exist
 - 09/06/2021 Hello world! - Openbox
 - 23/07/2021 Re-install Operation System
 - 19/09/2021-26/09/2021 endl;nh
