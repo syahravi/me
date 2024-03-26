@@ -24,7 +24,8 @@
 - 19/09/2021-26/09/2021 endl;nh
 - 22/10/2021 HSN;uhuk
 - 15/11/2021 Re-install Operation System
-- 11/02/2022 Menonton Naruto.
+- 11/02/2022 Watching Naruto
 - 24/02/2022 Closed `syahravi.github.io`
-- 25/02/2022 Decision.
-- 26/03/2024 Service.
+- 25/02/2022 Decision
+- 16/01/2023 ABhome
+- 26/03/2024 Service
