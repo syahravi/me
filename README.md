@@ -3,7 +3,7 @@ Life
 
 It's a **timeline of important events**
 
-So, this is it. Have a look at [tl.syahravi.my.id](https://syahravi.my.id/timeline).
+So, this is it. Have a look at [me.syahravi.my.id](https://me.syahravi.my.id/).
 
 Features
 --------
@@ -12,4 +12,4 @@ Features
 - No fancy formatting
 - No fancy setup
 - No fancy effects
-- Flexible datetimes because sometimes you don't remember the exact date of an event
+- Flexible datetime because sometimes you don't remember the exact date of an event
