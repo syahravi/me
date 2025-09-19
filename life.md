@@ -1,32 +1,34 @@
 @syahravi's life
 ===============
 
-- 02/2001 Ravi lahir di Jawa Tengah, Indonesia.
-- 2001-2005 Yuhuu.
-- 2005-2007 Kindergarten (TK), - Central Java
-- 2007-2010 Primary School (SD), - Central Java
-- 2010 Something else.
-- 2011-2014 Primary School (SD), - Bali
-- 2014-09/07/2017 Junior High School (SMP), - Bali
-- ~2014 a computer.
-- ~2017 Ravi beli laptop (Lenovo).
-- 10/07/2017-2018 Vocational and  Pre-professional High School (SMK), - Bali
-- 2018-11/06/2020 Vocational and Pre-professional High School (SMK), - Central Java
-- 19/08/2019-19/08/2020 1 (one) year rent dasarjana.com
-- 10/09/2020 Undergraduate student, West Java
-- 11/2020 Initializing the [...]
-- 1/12/2020-4/12/2020 in Bandung - Get paid [...] IDR
-- 01/06/2021 [syahravi.github.io](https://syahravi.github.io)
-- 01/06/2021-01/06/2026 5 (five) years rent [syahravi.my.id](https://syahravi.my.id)
-- 03/06/2021 [me.syahravi.my.id](/)
-- 09/06/2021 Hello world! - Openbox
-- 23/07/2021 Re-install Operation System
-- 19/09/2021-26/09/2021 endl;nh
-- 22/10/2021 HSN;uhuk
-- 15/11/2021 Re-install Operation System
-- 11/02/2022 Watching Naruto
-- 24/02/2022 Closed `syahravi.github.io`
-- 25/02/2022 Decision
-- 16/01/2023 ABhome
-- 14/08/2023-31/12/2023 Bangkit Academy 2023 By Google, GoTo, Traveloka - Cloud Computing Learning Path
-- 26/03/2024 Service
+- 02/2001 Ravi was born in Central Java, Indonesia.
+- 2001–2005 Early childhood years.
+- 2005–2007 Kindergarten (TK), Central Java.
+- 2007–2010 Primary School (SD), Central Java.
+- 2010 A year of transition.
+- 2011–2014 Primary School (SD), Bali.
+- 2014–09/07/2017 Junior High School (SMP), Bali.
+- ~2014 First encounter with a computer.
+- ~2017 Bought a first laptop (Lenovo).
+- 10/07/2017–2018 Vocational & Pre-professional High School (SMK), Bali.
+- 2018–11/06/2020 Vocational & Pre-professional High School (SMK), Central Java.
+- 19/08/2019–19/08/2020 One-year journey renting dasarjana.com.
+- 07/04/2020 Joined GitHub.
+- 10/09/2020 Began undergraduate studies, West Java.
+- 11/2020 Initialized the first project milestone.
+- 01/12/2020–04/12/2020 In Bandung – earned first professional income (IDR).
+- 01/06/2021 Launched syahravi.github.io
+- 01/06/2021–01/06/2026 Five-year domain rental: syahravi.my.id
+- 03/06/2021 Introduced me.syahravi.my.id
+- 09/06/2021 “Hello World!” on Openbox.
+- 23/07/2021 Re-installed Operating System.
+- 19/09/2021–26/09/2021 Experiment: endl;nh.
+- 22/10/2021 Experiment: HSN;uhuk.
+- 15/11/2021 Re-installed Operating System again.
+- 11/02/2022 Watching Naruto.
+- 24/02/2022 Closed [syahravi.github.io].
+- 25/02/2022 Made a turning-point decision.
+- 16/01/2023 Joined ABhome.
+- 14/08/2023–31/12/2023 Selected for Bangkit Academy 2023 by Google, GoTo, Traveloka – Cloud Computing Learning Path.
+- 26/03/2024 First service project launched.
+- 
